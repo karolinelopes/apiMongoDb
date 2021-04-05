@@ -7,9 +7,10 @@ API desenvolvida com .NET e com MongoDB no curso da Digital Innovation One (DIO)
 - Criar uma conta gratuita no MongoDB, e criar um banco de dados e pegar o link de conexão e alterar no arquivo appsetting.json.
 
 ## Script:
-Para rodar a aplicação no terminal: `dotnet run` ou `dotnet watch run.`
-Par utilizar no Postman: Para rodar a aplicação no Postman https:localhost:5000/paciente
-Para utilizar o Swagger: localhost:5001/swagger/index.html
+- Primeiro rodar no terminal: `dotnet build` para fazer todas as instalações corretas.
+- Para rodar a aplicação no terminal: `dotnet run` ou `dotnet watch run.`
+- Para utilizar no Postman: Para rodar a aplicação no Postman https:localhost:5000/paciente
+- Para utilizar o Swagger: localhost:5001/swagger/index.html
 
 Tecnologia utilizada:
 .NET Core 3.1
